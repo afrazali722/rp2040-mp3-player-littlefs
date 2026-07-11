@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <LittleFS.h>
 #include <I2S.h>
-#include <BackgroundAudio.h>
 
 // =====================================================
 // MAX98357A I2S pins
